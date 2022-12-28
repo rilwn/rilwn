@@ -13,6 +13,7 @@ Welcome to my profile! I'm a Full-Stack web developer from Nigeria. Thanks for v
     <img align="center" alt="React" height="50" width="50"  src="https://img.icons8.com/officel/144/000000/react.png">
     <img align="center" alt="Vue js" height="50" width="50"  src="https://img.icons8.com/color/search/vue-js">
     <img align="center" alt="Node" height="50" width="50"  src="https://img.icons8.com/color/144/000000/nodejs.png">
+  <img align="center" alt="PostgreSQL" height="50" width="50"  src="https://img.icons8.com/color/search/postgresql">
     <img align="center" alt="PHP" height="50" width="50"  src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Webysther_20160423_-_Elephpant.svg/1200px-Webysther_20160423_-_Elephpant.svg.png">
     <img align="center" alt="MY SQL" height="50" width="50" src="https://c1.klipartz.com/pngpicture/64/828/sticker-png-mysql-logo-organization-database-database-management-system-theory-implementation-line-circle-thumbnail.png">
     <img align="center" alt="Laravel" height="50" width="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/220px-Laravel.svg.png">
@@ -26,7 +27,6 @@ Welcome to my profile! I'm a Full-Stack web developer from Nigeria. Thanks for v
   ##
  
 <div> 
-  <a href="[https://twitter.com/RidwanIshaq10]" target="_blank"><img src="https://www.nicepng.com/png/full/67-671228_ways-twitter-logo-with-name.png" target="_blank"></a>
   <a href="[https://www.linkedin.com/in/rilwanu-isyaku-1b709b1a8/]" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
   ![Snake animation](https://github.com/Md-shefat-masum/Md-shefat-masum/blob/main/github-user-contribution.svg)
