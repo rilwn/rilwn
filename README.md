@@ -20,8 +20,8 @@ Welcome to my profile! I'm a Full-Stack web developer from Nigeria. Thanks for v
     <img align="center" alt="Rest API" height="50" width="50" src="https://nextbigtechnology.com/wp-content/uploads/2018/10/restapi.jpg">
     <img align="center" alt="HTML" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img align="center" alt="CSS" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-    <img align="center" alt="code" width="130" height="70"  src="https://blog.toothpickapp.com/content/images/size/w2000/2022/08/ts_logo.png">
-    <img align="right" alt="code" width="200" height="200"  src="https://media.giphy.com/media/KNP5EQE5n2nczSFYpD/giphy.gif">
+    <img align="center" alt="TypeScript" width="130" height="70"  src="https://blog.toothpickapp.com/content/images/size/w2000/2022/08/ts_logo.png">
+    <img align="right" alt="HTML5" width="200" height="200"  src="https://media.giphy.com/media/KNP5EQE5n2nczSFYpD/giphy.gif">
 </div>
   
   ##
