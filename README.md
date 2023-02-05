@@ -12,7 +12,7 @@ Welcome to my profile! I'm a Full-Stack web developer from Nigeria. Thanks for v
     <img align="center" alt="Js" height="50" width="50" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png">
     <img align="center" alt="React" height="50" width="50"  src="https://img.icons8.com/officel/144/000000/react.png">
     <img align="center" alt="Vue js" height="50" width="50"  src="https://img.icons8.com/color/search/vue-js">
-    <img align="center" alt="Node" height="50" width="50"  src="https://img.icons8.com/color/144/000000/nodejs.png">
+    <img align="center" alt="Node" height="50" width="50"  src="https://banner2.cleanpng.com/20180425/jrw/kisspng-node-js-javascript-web-application-express-js-comp-5ae0f84e2a4242.1423638015246930701731.jpg">
   <img align="center" alt="PostgreSQL" height="50" width="50"  src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg">
     <img align="center" alt="PHP" height="50" width="80"  src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Webysther_20160423_-_Elephpant.svg/1200px-Webysther_20160423_-_Elephpant.svg.png">
     <img align="center" alt="MY SQL" height="50" width="90" src="https://1000logos.net/wp-content/uploads/2020/08/MySQL-Logo.png">
