@@ -12,12 +12,12 @@ Welcome to my profile! I'm a Software Engineer from Nigeria. Thanks for visiting
     <img align="center" alt="Js" height="50" width="50" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png">
     <img align="center" alt="React" height="50" width="50"  src="https://img.icons8.com/officel/144/000000/react.png">
     <img align="center" alt="Vue js" height="50" width="50"  src="https://img.icons8.com/color/search/vue-js">
-    <img align="center" alt="Node" height="50" width="50"  src="https://banner2.cleanpng.com/20180425/jrw/kisspng-node-js-javascript-web-application-express-js-comp-5ae0f84e2a4242.1423638015246930701731.jpg">
+    <img align="center" alt="WordPress" height="120" width="120"  src="https://cdnlogo.com/logos/w/28/wordpress.svg">
   <img align="center" alt="PostgreSQL" height="50" width="50"  src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg">
     <img align="center" alt="PHP" height="50" width="70"  src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Webysther_20160423_-_Elephpant.svg/1200px-Webysther_20160423_-_Elephpant.svg.png">
     <img align="center" alt="MY SQL" height="50" width="90" src="https://1000logos.net/wp-content/uploads/2020/08/MySQL-Logo.png">
     <img align="center" alt="Laravel" height="50" width="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/220px-Laravel.svg.png">
-    <img align="center" alt="Rest API" height="50" width="50" src="https://nextbigtechnology.com/wp-content/uploads/2018/10/restapi.jpg">
+    <img align="center" alt="GoLang" height="45" width="85" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Go_Logo_Blue.svg/1200px-Go_Logo_Blue.svg.png">
     <img align="center" alt="HTML" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img align="center" alt="CSS" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
     <img align="center" alt="TypeScript" width="50" height="50"  src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/2048px-Typescript_logo_2020.svg.png">
