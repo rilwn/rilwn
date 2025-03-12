@@ -1,5 +1,5 @@
 # Hi I'm Rilwanu Isyaku <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-Welcome to my profile! I'm a Software Engineer from Nigeria. Thanks for visiting and I'd love to connect!
+Engineering the future, one commit at a time.
 
 <div>
   <a href="https://github.com/Md-shefat-masum">
