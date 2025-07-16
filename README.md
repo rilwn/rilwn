@@ -1,5 +1,5 @@
 # Hi I'm R.Isyaku <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-
+<p>Working as an independent software engineer.</p>
 <div>
   <a href="https://github.com/Md-shefat-masum">
 <!--   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Md-shefat-masum&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -35,4 +35,4 @@
 </div>
 
 <br />
-### Show some ❤️ by starring some of the repositories!
+### Peace & ❤️
