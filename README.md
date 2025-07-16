@@ -1,5 +1,4 @@
-# Hi I'm Rilwanu Isyaku <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-Engineering the future, one commit at a time.
+# Hi I'm R.Isyaku <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 <div>
   <a href="https://github.com/Md-shefat-masum">
@@ -7,6 +6,7 @@ Engineering the future, one commit at a time.
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Md-shefat-masum&layout=compact&langs_count=7&theme=dracula"/> -->
     <figure><embed src="https://wakatime.com/share/@8c212965-ff46-4a88-a097-7c8a1718035a/e499dd8c-9339-4209-9caa-90044529f1cf.svg"></embed></figure>
 </div>
+<!--
 <div style="display: inline_block"><br>
       <img align="center" alt="Docker" height="50" width="50" src="https://img.icons8.com/color/search/docker">
     <img align="center" alt="Js" height="50" width="50" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png">
@@ -23,6 +23,7 @@ Engineering the future, one commit at a time.
     <img align="center" alt="TypeScript" width="50" height="50"  src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/2048px-Typescript_logo_2020.svg.png">
     <img align="right" alt="HTML5" width="200" height="200"  src="https://media.giphy.com/media/KNP5EQE5n2nczSFYpD/giphy.gif">
 </div>
+-->
   
   ##
  
